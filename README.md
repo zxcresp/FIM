@@ -18,7 +18,7 @@ The project is currently under active development.
 
 ### Current Version
 
-**FIMv1 — Education Version**
+**FIMv1 - Education Version**
 
 The first version of the project was created as an educational prototype for learning:
 
@@ -39,7 +39,7 @@ The main idea behind FIM is to create a **baseline** - a snapshot of the current
 
 Future states of the file system are compared against this baseline.
 
-```text
+```
              Selected directory
                     │
                     ▼
@@ -82,7 +82,7 @@ The first educational version of the project.
 
 The main workflow is:
 
-```text
+```
 Directory
     ↓
 File paths
@@ -102,7 +102,7 @@ FIMv1 uses polling: the monitored directory is periodically scanned again to det
 
 More information:
 
-
+[**FIMv1**](./FIM%20%28v1%29/README.md)
 
 ---
 
@@ -133,7 +133,7 @@ As the project grows, its architecture will be divided into separate components 
 
 Possible future structure:
 
-```text
+```
 FIM/
 │
 ├── FIMv1/
