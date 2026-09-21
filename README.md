@@ -102,7 +102,7 @@ FIMv1 uses polling: the monitored directory is periodically scanned again to det
 
 More information:
 
-**[`FIMv1/`](./FIMv1/)**
+**[`FIMv1/`](./FIM (v1))**
 
 ---
 
